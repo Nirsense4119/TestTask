@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat May 24 20:43:41 2025
+# Process ID: 23672
+# Current directory: C:/Users/nikpv/vivadolabs/TestTask
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23704 C:\Users\nikpv\vivadolabs\TestTask\TestTask.xpr
+# Log file: C:/Users/nikpv/vivadolabs/TestTask/vivado.log
+# Journal file: C:/Users/nikpv/vivadolabs/TestTask\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/nikpv/vivadolabs/TestTask/TestTask.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat May 24 20:43:41 2025
+# Process ID: 23672
+# Current directory: C:/Users/nikpv/vivadolabs/TestTask
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23704 C:\Users\nikpv\vivadolabs\TestTask\TestTask.xpr
+# Log file: C:/Users/nikpv/vivadolabs/TestTask/vivado.log
+# Journal file: C:/Users/nikpv/vivadolabs/TestTask\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/nikpv/vivadolabs/TestTask/TestTask.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/VS/Vivado/2018.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat May 24 20:44:12 2025...

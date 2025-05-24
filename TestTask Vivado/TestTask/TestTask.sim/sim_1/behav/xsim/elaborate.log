@@ -1,0 +1,14 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/VS/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto f4e707761e0145ccb240b51ca8623200 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_calculator_behav xil_defaultlib.tb_calculator xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/nikpv/vivadolabs/TestTask/TestTask.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.calculator_default
+Compiling module xil_defaultlib.tb_calculator
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_calculator_behav
